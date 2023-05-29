@@ -1,11 +1,10 @@
 {
     "user": [
         {
-            "id":1,
-            "name":"manikanta",
-            "mailid":"satyamanikanta274@gmail.com",
-            "password":"14404M060@s"
-        }
+        "Name": "satyamanikanta",
+        "id": "yallasatya27@gmail.com",
+        "Password": "Satya@123"
+      }
     ],
     "AdminLogins": [
       {
