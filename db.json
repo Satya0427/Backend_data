@@ -1,38 +1,16 @@
 {
     "user": [
-      {
-        "FullName": "Yalla Satya Manikanta",
-        "id": "satyamanikanta274@gmail.com",
-        "password": "Satya@1234",
-        "conformPassword": "Satya@1234",
-        "image": "C:\\fakepath\\Manikanta photo.jpeg"
-      },
-      {
-        "FullName": "Devu satish",
-        "id": "satish@gmail.com",
-        "password": "Satish@123",
-        "conformPassword": "Satish@123",
-        "image": "C:\\fakepath\\Ration card.jpeg"
-      },
-      {
-        "FullName": "veerababu",
-        "id": "veeru@gmail.com",
-        "password": "Veeru@123",
-        "conformPassword": "Veeru@123",
-        "image": "C:\\fakepath\\Aadhar card.jpg"
-      },
-      {
-        "FullName": "suresh",
-        "id": "suresh@123",
-        "password": "Suresh@123",
-        "conformPassword": "Suresh@123",
-        "image": "C:\\fakepath\\PAN CARD.jpg"
-      }
+        {
+            "id":1,
+            "name":"manikanta",
+            "mailid":"satyamanikanta274@gmail.com",
+            "password":"14404M060@s"
+        }
     ],
     "AdminLogins": [
       {
         "Name": "satyamanikanta",
-        "id": "satya@gmail.com",
+        "id": "yallasatya27@gmail.com",
         "Password": "Satya@123"
       }
     ],
